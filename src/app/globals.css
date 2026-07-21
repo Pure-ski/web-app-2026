@@ -1,26 +1,283 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --cream: #fbf5ec;
+  --card: #fffcf6;
+  --ink: #2c3e50;
+  --ink-soft: #55677a;
+  --pink: #d875da;
+  --pink-deep: #c055c3;
+  --pink-cta: #a83fac;
+  --pink-cta-hover: #8f3593;
+  --yellow: #f5e54e;
+  --green: #5fe85a;
+  --mint: #4cf3d5;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-cream: var(--cream);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-pink: var(--pink);
+  --color-pink-deep: var(--pink-deep);
+  --color-pink-cta: var(--pink-cta);
+  --color-pink-cta-hover: var(--pink-cta-hover);
+  --color-brand-yellow: var(--yellow);
+  --color-brand-green: var(--green);
+  --color-mint: var(--mint);
+  --font-sans: var(--font-noto), "Noto Sans TC", sans-serif;
+  --font-display: var(--font-outfit), var(--font-noto), sans-serif;
+  --font-serif: var(--font-serif-tc), "Noto Serif TC", serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--cream);
+  color: var(--ink);
+  font-family: var(--font-noto), "Noto Sans TC", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* iOS Safari fixed-position + 連續 transform 動畫的合成器 bug 修法：
+   強制升上獨立 GPU 圖層並鎖定，避免快速捲動時舊畫面短暫貼錯位置。
+   純合成屬性，不影響任何位置/動畫數值，桌面版無視覺差異。 */
+.gpu-layer {
+  transform: translateZ(0);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+::selection {
+  background: var(--pink);
+  color: #fff;
+}
+
+/* ---- 細節質感 ---- */
+
+/* 膠片顆粒：疊在整個頁面上（kitamura 級的存在感） */
+.grain::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  pointer-events: none;
+  opacity: 0.07;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* 雪噴濺紙紋：墊在世界層上、內容下（kitamura 式全頁真實紋理） */
+.washi::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.55;
+  mix-blend-mode: multiply;
+  background-image: url("/world/snow-spray.jpg");
+  background-size: cover;
+}
+
+/* 縱書側標（日式編輯） */
+.tategaki {
+  writing-mode: vertical-rl;
+  letter-spacing: 0.42em;
+  font-weight: 500;
+}
+
+/* 明朝體詩意行 */
+.serif-line {
+  font-family: var(--font-serif-tc), "Noto Serif TC", serif;
+}
+
+/* 印章 */
+.hanko {
+  font-family: var(--font-serif-tc), "Noto Serif TC", serif;
+  writing-mode: vertical-rl;
+  border: 3px solid var(--pink);
+  color: var(--pink-deep);
+  border-radius: 6px;
+}
+
+/* 粉紫棋盤格條（品牌記憶元素） */
+.checker {
+  background-image: repeating-conic-gradient(
+    var(--pink) 0% 25%,
+    #ffffff 0% 50%
+  );
+  background-size: 28px 28px;
+}
+
+/* 跑馬燈 */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.marquee-track {
+  animation: marquee 28s linear infinite;
+}
+
+/* 大標題排版 */
+.display-xl {
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1.04;
+}
+
+/* 手寫感底線（粉紫筆刷） */
+.brush-underline {
+  background-image: linear-gradient(
+    104deg,
+    transparent 0.5%,
+    color-mix(in srgb, var(--pink) 55%, transparent) 3%,
+    color-mix(in srgb, var(--pink) 45%, transparent) 96%,
+    transparent 99%
+  );
+  background-repeat: no-repeat;
+  background-size: 100% 0.34em;
+  background-position: 0 88%;
+}
+
+/* 專欄文章排版 */
+.prose-pure {
+  color: var(--ink-soft);
+  line-height: 2.1;
+  letter-spacing: 0.02em;
+}
+.prose-pure h2 {
+  font-family: var(--font-serif-tc), "Noto Serif TC", serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: var(--ink);
+  margin: 2.5em 0 1em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid rgba(44, 62, 80, 0.15);
+  letter-spacing: 0.04em;
+}
+.prose-pure h3 {
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--ink);
+  margin: 2em 0 0.8em;
+}
+.prose-pure p {
+  margin: 1.2em 0;
+}
+.prose-pure strong {
+  color: var(--ink);
+}
+.prose-pure a {
+  color: var(--pink-deep);
+  border-bottom: 1px solid var(--pink);
+}
+.prose-pure ul,
+.prose-pure ol {
+  margin: 1.2em 0;
+  padding-left: 1.4em;
+}
+.prose-pure li {
+  margin: 0.5em 0;
+  list-style: disc;
+}
+.prose-pure ol li {
+  list-style: decimal;
+}
+.prose-pure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  border: 1px solid rgba(44, 62, 80, 0.15);
+  margin: 1.8em 0;
+}
+.prose-pure blockquote {
+  border-left: 3px solid var(--pink);
+  padding-left: 1em;
+  color: var(--ink-soft);
+}
+.prose-pure table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.92em;
+}
+.prose-pure th,
+.prose-pure td {
+  border: 1px solid rgba(44, 62, 80, 0.18);
+  padding: 0.5em 0.8em;
+  text-align: left;
+}
+.prose-pure th {
+  background: rgba(216, 117, 218, 0.1);
+  color: var(--ink);
+}
+
+/* 夜色自適應文字：--n 0=墨色 1=奶油色（由滾動進度驅動） */
+.night-adaptive {
+  color: color-mix(in srgb, var(--cream) calc(var(--n, 0) * 100%), var(--ink));
+}
+.night-adaptive-soft {
+  color: color-mix(in srgb, var(--cream) calc(var(--n, 0) * 88%), var(--ink-soft));
+}
+
+/* 貼紙樣式：白底黑邊圓角 + 硬陰影 */
+.sticker {
+  border: 3px solid #000;
+  border-radius: 14px;
+  box-shadow: 4px 4px 0 #000;
+  background: #fff;
+}
+
+/* Ken Burns：照片緩慢縮放，模擬影片感（影片就緒後仍保留無妨） */
+@keyframes kenburns {
+  from {
+    transform: scale(1.04);
+  }
+  to {
+    transform: scale(1.14);
+  }
+}
+.kenburns {
+  animation: kenburns 22s ease-in-out infinite alternate;
+  will-change: transform;
+}
+
+/* 吉祥物漂浮 */
+@keyframes bob {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-2deg);
+  }
+  50% {
+    transform: translateY(-14px) rotate(2deg);
+  }
+}
+.float-slow {
+  animation: bob 7s ease-in-out infinite;
+}
+.float-mid {
+  animation: bob 5.5s ease-in-out infinite;
+  animation-delay: -2s;
+}
+.float-fast {
+  animation: bob 4.5s ease-in-out infinite;
+  animation-delay: -1s;
+}
+
+/* 課程卡照片的縮放 hover */
+.zoom-media img {
+  transition: transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.zoom-media:hover img {
+  transform: scale(1.06);
 }
