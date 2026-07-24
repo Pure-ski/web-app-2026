@@ -3,7 +3,7 @@ title: "聖誕禮物公園滑雪場攻略 2026"
 description: "聖誕禮物公園位於旭川市近郊，擁有北海道最美夜景和 FIS 認證雪道。本篇攻略涵蓋雪場特色、夜滑資訊、交通方式與親子設施，由 PURESKI 教練團隊撰寫。"
 date: "2026-03-23"
 category: "雪場攻略"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22c429de14.jpg"
+ogImage: "/images/blog/972d79c8f7.jpg"
 ---
 
 每次有學生問我「旭川附近有沒有推薦的雪場」，我第一個想到的就是聖誕禮物公園（Santa Present Park）。光聽名字就覺得溫馨，實際去了以後更會被那種聖誕氛圍給融化。這座雪場不像二世谷或富良野那樣聲名遠播，但它有著獨特的魅力——特別是帶著小朋友或另一半來滑雪的時候，這裡的浪漫和溫暖是其他雪場很難比的。
@@ -18,7 +18,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 充滿聖誕氛圍的獨特體驗
 
-![聖誕禮物公園滑雪場聖誕裝飾氛圍，燈光佈置與溫馨的雪場體驗](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22c9728075.jpg)
+![聖誕禮物公園滑雪場聖誕裝飾氛圍，燈光佈置與溫馨的雪場體驗](/images/blog/d5735512e9.jpg)
 
 日本的雪場通常走「運動設施」風格，但聖誕禮物公園是少數真正把「主題」融入整個雪場體驗的地方。從入口開始就能感受到聖誕裝飾的氛圍，燈光佈置、裝飾小物，甚至連工作人員都帶著一種溫暖的聖誕精神。
 
@@ -26,7 +26,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 北海道最美夜滑景點之一
 
-![從聖誕禮物公園山頂俯瞰旭川市區夜景，北海道最美夜滑景點](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22d1530cc1.jpg)
+![從聖誕禮物公園山頂俯瞰旭川市區夜景，北海道最美夜滑景點](/images/blog/34f29fb6d2.jpg)
 
 說到聖誕禮物公園最大的賣點，絕對是夜滑。我在北海道滑了這麼多年，敢說這裡的夜滑景色是全北海道最美的之一。
 
@@ -58,7 +58,7 @@ FIS 認證的比賽雪道坡度夠陡、整地品質好，是想要練技術的�
 
 ## 親子滑雪的最佳選擇
 
-![聖誕禮物公園親子雪地活動，小朋友在雪地中開心玩耆](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22cd7e63c2.jpg)
+![聖誕禮物公園親子雪地活動，小朋友在雪地中開心玩耆](/images/blog/b265554b9d.jpg)
 
 如果你是帶小朋友來北海道滑雪，聖誕禮物公園絕對要列入口袋名單。
 

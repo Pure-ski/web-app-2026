@@ -3,10 +3,10 @@ title: "札幌國際滑雪場攻略 2026"
 description: "札幌國際滑雪場以豐沛雪量和寬闊雪道聞名，設有魔毯讓初學者輕鬆練習。本篇詳細介紹雪道特色、票價、交通方式與定山溪溫泉順遊建議，由 PURESKI 教練團隊撰寫。"
 date: "2026-03-23"
 category: "雪場攻略"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c251a85493a.jpg"
+ogImage: "/images/blog/3235013b13.jpg"
 ---
 
-![札幌國際滑雪場粉雪天堂，雪道寬闊適合初學者](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c224aac50fc-1024x683.jpg)
+![札幌國際滑雪場粉雪天堂，雪道寬闊適合初學者](/images/blog/4a42b53084.jpg)
 
 說到北海道雪質最好的滑雪場，很多人第一個想到的是二世谷或富良野，但其實距離札幌市區只要大約 80 分鐘車程的札幌國際滑雪場（Sapporo Kokusai Ski Resort），雪量和雪質完全不輸那些明星雪場。札幌國際每年的累積降雪量經常超過 10 公尺，粉雪日的頻率非常高。更棒的是，這裡的雪道設計寬闘平緩，還設有魔毯（電動扶梯），是我們 PURESKI 教練團隊最推薦初學者前往的雪場之一。
 
@@ -14,7 +14,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 為什麼札幌國際的雪質這麼好？
 
-![札幌國際滑雪場林間雪道，被粉雪覆蓋的樹木環繞](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c227b6623aa-1024x768.jpg)
+![札幌國際滑雪場林間雪道，被粉雪覆蓋的樹木環繞](/images/blog/969f545172.jpg)
 
 札幌國際滑雪場位於札幌市南區的山區，海拔介於 630 到 1,100 公尺之間。這個位置剛好處於日本海側氣流帶來的降雪帶上，加上周圍被山脈環繞，冷空氣容易堆積，造就了極為優質的粉雪條件。
 
@@ -44,7 +44,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 魔毯（Magic Carpet）完整攻略
 
-![札幌國際滑雪場魔毯輸送帶，初學者練習區的電動步道](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c227ebdaaae-1024x768.jpg)
+![札幌國際滑雪場魔毯輸送帶，初學者練習區的電動步道](/images/blog/8db73821f9.jpg)
 
 魔毯可以說是札幌國際最受初學者歡迎的設施，我們覺得這也是它和其他雪場最大的差異化優勢。
 
@@ -95,7 +95,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 定山溪溫泉順遊：滑完雪泡個湯
 
-![定山溪溫泉，滑完雪後泡湯的絕佳順遊景點](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c228339d862-1024x680.jpg)
+![定山溪溫泉，滑完雪後泡湯的絕佳順遊景點](/images/blog/16136bab49.jpg)
 
 去札幌國際滑雪最棒的附加行程，就是回程順路去定山溪溫泉泡湯。定山溪溫泉是札幌最知名的溫泉區，位於前往札幌國際的途中，從雪場回札幌市區的路上一定會經過。
 

@@ -3,10 +3,10 @@ title: "ONZE 滑雪場攻略 2026"
 description: "ONZE滑雪場位於小樽朝里，面海雪道是最大特色，邊滑雪邊欣賞日本海絕景。本篇完整介紹票價、交通、夜滑資訊，札幌出發40分鐘的秘境雪場。"
 date: "2026-03-23"
 category: "雪場攻略"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2523e0e104.jpg"
+ogImage: "/images/blog/e9e1c425d3.jpg"
 ---
 
-![ONZE滑雪場，札幌近郊面海的祕境雪場](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c229a92b4fd-1024x768.jpg)
+![ONZE滑雪場，札幌近郊面海的祕境雪場](/images/blog/da1f663280.jpg)
 
 ONZE 基本資訊
 
@@ -22,7 +22,7 @@ ONZE 的正式名稱是 Snow Cruise ONZE（スノークルーズオーンズ）�
 
 ## 面海雪場——滑雪看海的奢侈體驗
 
-![ONZE滑雪場面海雪道，眺望石狩灣的絕美海景](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c229cfdf372-1024x768.jpg)
+![ONZE滑雪場面海雪道，眺望石狩灣的絕美海景](/images/blog/e41692469e.jpg)
 
 ONZE 最大的賣點，就是那片石狩灣的海景。從山頂區域的雪道往下滑，眼前是一望無際的日本海，海面在冬日陽光下閃爍著銀色光芒。這種「邊滑雪邊看海」的體驗在全球都極為罕見，更不用說配上北海道的粉雪品質。
 
@@ -50,7 +50,7 @@ ONZE 的中下段雪道坡度恰到好處，既有足夠的速度讓你做動作
 
 ## 北海道最晚夜滑——滑到 23:00
 
-![ONZE夜滑，城市燈光與雪道交織的絕美夜景](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c229ec842fa-1024x768.jpg)
+![ONZE夜滑，城市燈光與雪道交織的絕美夜景](/images/blog/98cc8c1417.jpg)
 
 ## 夜滑時間與特色
 
@@ -137,7 +137,7 @@ ONZE 離小樽市區只有 15 到 20 分鐘車程，滑完雪去小樽吃壽司�
 
 ## 小樽運河與堺町通
 
-![小樽運河冬景，滑完雪後的經典順遊景點](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22a0d386ef-1024x768.jpg)
+![小樽運河冬景，滑完雪後的經典順遊景點](/images/blog/4c1dd99a8d.jpg)
 
 小樽運河是北海道最具代表性的觀光景點之一，冬季的運河兩旁會點上燈飾，倒映在水面上的光影美得令人屏息。堺町通商店街則集結了北一硝子（玻璃工藝）、LeTAO（甜點）、六花亭等名店，逛街購物的樂趣十足。
 

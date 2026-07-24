@@ -3,10 +3,10 @@ title: "星野 TOMAMU 滑雪場攻略 2026"
 description: "星野 TOMAMU 是北海道最受家庭歡迎的滑雪度假村，住宿、溫泉、餐廳、兒童設施一應俱全。本篇攻略涵蓋雪道分析、住宿選擇、親子設施與交通方式，由 PURESKI 教練團隊撰寫。"
 date: "2026-03-23"
 category: "雪場攻略"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c251faa52bd.jpg"
+ogImage: "/images/blog/aa020a8d5f.jpg"
 ---
 
-![星野TOMAMU滑雪度假村，北海道夢幻一站式滑雪體驗](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c228ad133be-1024x683.jpg)
+![星野TOMAMU滑雪度假村，北海道夢幻一站式滑雪體驗](/images/blog/7a30171e09.jpg)
 
 如果你想要的不只是「滑雪」，而是一整個冬天的度假體驗，那星野 TOMAMU（星野リゾート トマム）大概是北海道最完美的答案。這裡不只是一個滑雪場，而是一座包含住宿、餐廳、溫泉、泳池、兒童設施、甚至冰之教堂的大型度假村。你可以早上滑雪、下午泡溫泉、晚上在冰城裡喝一杯雞尾酒，所有事情都在同一個地方完成，完全不需要移動。
 
@@ -14,7 +14,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## TOMAMU 的雪場特色
 
-![星野TOMAMU度假村全景，雪山環繞的大型滑雪度假區](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c228ced772a-1024x683.jpg)
+![星野TOMAMU度假村全景，雪山環繞的大型滑雪度假區](/images/blog/34f21ba1b1.jpg)
 
 TOMAMU 的滑雪場規模在北海道屬於中等偏大，共有 29 條雪道，涵蓋初學到高級的各種難度。雪場的最大落差約 580 公尺，最長滑行距離約 4,200 公尺。
 
@@ -78,7 +78,7 @@ TOMAMU 最吸引家庭和情侶的地方，就是就算不滑雪，光是度假�
 
 ## 愛絲冰城（アイスヴィレッジ）
 
-![星野TOMAMU愛絲冰城，冬季限定的夢幻冰之城市](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c228f66ebd0-1024x683.jpg)
+![星野TOMAMU愛絲冰城，冬季限定的夢幻冰之城市](/images/blog/60326a011a.jpg)
 
 每年冬天，TOMAMU 會在度假村內搭建一座完整的冰之城市——愛絲冰城。所有建築都用冰塊打造，包含冰之酒吧、冰之教堂、冰之旅館、冰之溜滑梯。你可以在冰吧裡喝一杯用冰杯盛裝的雞尾酒，或是在冰之教堂裡舉辦婚禮。
 
@@ -96,7 +96,7 @@ TOMAMU 最吸引家庭和情侶的地方，就是就算不滑雪，光是度假�
 
 ## 親子設施與兒童課程
 
-![星野TOMAMU親子滑雪，小朋友在雪地開心學滑雪](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2290f1e7a6-1024x683.jpg)
+![星野TOMAMU親子滑雪，小朋友在雪地開心學滑雪](/images/blog/10184f5ced.jpg)
 
 TOMAMU 在親子友善程度上，大概是北海道所有雪場中做得最好的。
 

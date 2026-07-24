@@ -3,7 +3,7 @@ title: "留壽都滑雪場攻略 2026"
 description: "留壽都是北海道最大的滑雪度假村，擁有三座山、37條雪道。本篇完整攻略涵蓋雪道分析、纜車票價、住宿推薦、餐廳美食與交通方式，由 PURESKI 教練團隊實地教學經驗撰寫。"
 date: "2026-03-22"
 category: "雪場攻略"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2312db4ce2.jpg"
+ogImage: "/images/blog/ec136fdc72.jpg"
 ---
 
 如果你問我北海道哪座雪場最適合「什麼都想要」的滑雪旅客，我的答案會是留壽都。三座山、37 條雪道、頂級粉雪、ski-in/ski-out 飯店、室內遊樂園——這裡根本就是一座為滑雪而生的小型城市。
@@ -35,7 +35,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
   
 線上提前購買有折扣（一日券約 ¥12,000），3 歲以下免費。如果你住在度假村內，部分住宿方案會包含纜車券，訂房時記得確認。
 
-![留壽都滑雪場 Rusutsu Resort 三座山全景，北海道最大滑雪度假村](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c232cb7c911-1024x683.jpg)
+![留壽都滑雪場 Rusutsu Resort 三座山全景，北海道最大滑雪度假村](/images/blog/b0da27efe8.jpg)
 
 ### 三座山的特色總覽
 
@@ -65,7 +65,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 三座山之間的連絡雪道本身就很好滑，邊滑邊欣賞風景，不知不覺就從一座山到了另一座山。
 
-![留壽都滑雪場 Isola Mt. 粉雪樹林，深雪滑雪天堂](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c232fd24099-1024x683.jpg)
+![留壽都滑雪場 Isola Mt. 粉雪樹林，深雪滑雪天堂](/images/blog/ac9a6f2d45.jpg)
 
 ### 進階挑戰區域（黑線與非壓雪區）
 
@@ -101,7 +101,7 @@ West Mt. 的「Heavenly Ridge」和「Heavenly Canyon」也是不可錯過的進
 
 * * *
 
-![留壽都度假村 Rusutsu Resort Hotel 冬季夜景，ski-in/ski-out 住宿](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2332df3838-1024x683.jpg)
+![留壽都度假村 Rusutsu Resort Hotel 冬季夜景，ski-in/ski-out 住宿](/images/blog/e1864b61bb.jpg)
 
 ## 住宿完整推薦
 
@@ -153,7 +153,7 @@ Resort Hotel 裡有超過 10 間餐廳，從日式、中式、西式到自助餐
 
 * * *
 
-![留壽都度假村冬季戶外活動，雪上摩托車、狗拉雪橇等豐富體驗](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23350e2b77-1024x683.jpg)
+![留壽都度假村冬季戶外活動，雪上摩托車、狗拉雪橇等豐富體驗](/images/blog/8cd07d3851.jpg)
 
 ## 非滑雪活動
 

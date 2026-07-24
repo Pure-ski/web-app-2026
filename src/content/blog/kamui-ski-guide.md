@@ -3,7 +3,7 @@ title: "神居滑雪場攻略 2026"
 description: "神居滑雪場位於北海道旭川，擁有150公尺超寬雪道，是練習Carving的絕佳環境。本篇完整介紹票價、交通、雪道地圖，帶你認識這座粉雪指標的寶藏雪場。"
 date: "2026-03-23"
 category: "雪場攻略"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22f643fc89.jpg"
+ogImage: "/images/blog/ced77a54cc.jpg"
 ---
 
 神居滑雪場基本資訊
@@ -26,7 +26,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## Gold Course——Carving 聖地
 
-![神居滑雪場 Gold Course 150 公尺超寬雪道，Carving 刮滑的完美場地](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22fb067fa8.jpg)
+![神居滑雪場 Gold Course 150 公尺超寬雪道，Carving 刮滑的完美場地](/images/blog/610366379d.jpg)
 
 Gold Course 是神居滑雪場的王牌雪道，也是整座雪場最受歡迎的路線。這條雪道最寬處達到 150 公尺，壓雪品質極佳，坡度適中又有足夠的長度，根本就是為 Carving 而生的完美場地。
 
@@ -44,7 +44,7 @@ Gold Course 是神居滑雪場的王牌雪道，也是整座雪場最受歡迎�
 
 ## 官方林間粉雪區
 
-![神居滑雪場官方林間粉雪區，穿梭在白樺林間滑過及膝粉雪](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2301eabf7a.jpg)
+![神居滑雪場官方林間粉雪區，穿梭在白樺林間滑過及膝粉雪](/images/blog/9635dd7e52.jpg)
 
 神居滑雪場設有官方認可的林間粉雪區（Tree Run Area），這在北海道的雪場中其實不算常見。很多雪場的樹林區是「默認可滑」但沒有正式開放，安全性和救援都是灰色地帶。神居的林間區是經過整理和管理的，在確保安全的前提下讓你體驗穿梭在白樺林間、滑過及膝粉雪的極致快感。
 
@@ -112,7 +112,7 @@ Gold Course 是神居滑雪場的王牌雪道，也是整座雪場最受歡迎�
 
 ## 旭山動物園
 
-![旭山動物園冬季企鵝散步，神居滑雪場周邊必訪景點](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c236ec9fb22.jpg)
+![旭山動物園冬季企鵝散步，神居滑雪場周邊必訪景點](/images/blog/4372ef1f32.jpg)
 
 旭山動物園是旭川最知名的觀光景點，冬季的企鵝散步（12 月下旬至 3 月中旬）更是北海道必看的經典活動。安排一天滑雪、一天動物園，是非常受歡迎的旭川兩日遊行程。
 

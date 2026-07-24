@@ -3,7 +3,7 @@ title: "北海道親子滑雪完整指南 2026"
 description: "想帶孩子到北海道體驗滑雪？本篇涵蓋適合兒童的雪場推薦、不同年齡的課程選擇、親子行程規劃範例，以及兒童裝備建議。由 PURESKI 親子滑雪專業教練團隊撰寫，讓全家都能安心享受雪上時光。"
 date: "2026-03-22"
 category: "親子滑雪"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2420f97c83.jpg"
+ogImage: "/images/blog/8206e08d45.jpg"
 ---
 
 「我家小孩適合滑雪嗎？」「會不會太小了？」「在雪場哭鬧怎麼辦？」
@@ -76,7 +76,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 兒童滑雪課程怎麼選？
 
-![兒童滑雪教學，教練帶領小朋友在雪地上學習](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c24213537bb.jpg)
+![兒童滑雪教學，教練帶領小朋友在雪地上學習](/images/blog/9752a1b117.jpg)
 
 「要不要幫孩子報滑雪課？」我的答案是：非常建議。自己教小孩滑雪，最常見的結果就是大人崩潰、小孩哭鬧、全家不開心。專業的事交給專業的人，爸媽只要負責在旁邊拍照就好。
 
@@ -126,7 +126,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 兒童裝備指南：租還是買？
 
-![兒童滑雪裝備，安全帽雪鏡手套等必備用品](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2421a00f27.jpg)
+![兒童滑雪裝備，安全帽雪鏡手套等必備用品](/images/blog/5e75ae634b.jpg)
 
 帶小孩滑雪最讓家長頭痛的問題之一就是裝備。孩子長得快，買了一套明年就穿不下，但租的話又怕品質不好。以下是我的實際建議。
 
@@ -170,7 +170,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 親子滑雪行程規劃範例
 
-![親子雪地玩耍，全家在雪地上開心遊戲](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c24216d537d.jpg)
+![親子雪地玩耍，全家在雪地上開心遊戲](/images/blog/ea49997683.jpg)
 
 第一次帶孩子來北海道滑雪，不要把行程排太滿。孩子的體力和耐心有限，塞太多只會全家人都累。
 

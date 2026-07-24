@@ -3,7 +3,7 @@ title: "怕摔、怕快、怕高？成人滑雪初學者的恐懼克服指南"
 description: "「我年紀大了學得會嗎？」「摔倒會不會很痛？」這些是成人初學者最常有的擔心。PURESKI 教練分享 7 個實戰建議，幫你克服速度恐懼、高度焦慮、摔倒恐懼，並分析團體課與私人課哪個更適合你。"
 date: "2026-03-22"
 category: "入門系列"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2433ae731f.jpg"
+ogImage: "/images/blog/88d073c34e.jpg"
 ---
 
 「我已經三十五歲了，現在才學來得及嗎？」
@@ -42,7 +42,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 三大恐懼逐一擊破
 
-![成人滑雪初學者在緩坡上練習，克服恐懼的第一步](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2433f6b617.jpg)
+![成人滑雪初學者在緩坡上練習，克服恐懼的第一步](/images/blog/592f3cd6cc.jpg)
 
 在所有滑雪恐懼中，以下三個在成人初學者身上最普遍。讓我一個一個拆解。
 
@@ -79,7 +79,7 @@ Ski 用的是「全制動」（也就是大家說的 Pizza / 內八字），把�
 
 ## 教練的 7 個實戰建議
 
-![滑雪教練耐心指導學員，一對一教學讓初學者安心](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c24344194ee.jpg)
+![滑雪教練耐心指導學員，一對一教學讓初學者安心](/images/blog/ff2a226ab7.jpg)
 
 以下七個建議，是從多年教學經驗和真實學員反饋中歸納出來的。
 

@@ -3,7 +3,7 @@ title: "佐幌滑雪場攻略 2026"
 description: "佐幌滑雪場位於北海道十勝地區，以驚人晴天率、極乾粉雪和幾乎不用排隊的空曠雪道聞名。本篇攻略涵蓋雪道分析、Club Med、交通方式與住宿選擇，由 PURESKI 教練團隊撰寫。"
 date: "2026-03-23"
 category: "雪場攻略"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22da85b6f9.jpg"
+ogImage: "/images/blog/2d0f6b70ad.jpg"
 ---
 
 你有沒有過這種經驗——在熱門雪場排了 30 分鐘纜車，上去滑一趟不到 5 分鐘就到底了，然後又要重新排隊？如果這種體驗讓你很無奈，那佐幌滑雪場（Sahoro Resort）大概會讓你覺得來到了天堂。
@@ -14,7 +14,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 十勝晴——藍天下的粉雪天堂
 
-![佐幌滑雪場十勝晴藍天下的粉雪雪道，Silky Snow 絲絨粉雪體驗](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22ddd82bd8.jpg)
+![佐幌滑雪場十勝晴藍天下的粉雪雪道，Silky Snow 絲絨粉雪體驗](/images/blog/5c781e2026.jpg)
 
 北海道西側的雪場（二世谷、留壽都等）以降雪量著稱，但天氣常常是陰天或暴風雪。佐幌位於北海道東側的十勝地區，這裡有一個讓滑雪者超開心的氣候特徵——「十勝晴」。
 
@@ -32,7 +32,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 包場級的空曠體驗
 
-![佐幌滑雪場空曠雪道，包場級的滑雪體驗幾乎不用排隊](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22e242b913.jpg)
+![佐幌滑雪場空曠雪道，包場級的滑雪體驗幾乎不用排隊](/images/blog/1de4ae4fdd.jpg)
 
 這是佐幌最讓我印象深刻的一點——真的沒什麼人。
 
@@ -140,7 +140,7 @@ Early／Spring 期間折扣：大人 ¥6,600 ／兒童 ¥5,200
 
 老實說，交通不方便是佐幌的唯一缺點。但換個角度想，正是因為交通門檻，才讓這裡維持了「不用排隊」的珍貴體驗。
 
-![十勝平原日出冬景，佐幌滑雪場周邊的壯闊雪山景色](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2369e8f538.jpg)
+![十勝平原日出冬景，佐幌滑雪場周邊的壯闊雪山景色](/images/blog/47a2be782b.jpg)
 
 推薦行程規劃
 

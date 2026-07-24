@@ -3,7 +3,7 @@ title: "手稻滑雪場攻略 2026"
 description: "手稻滑雪場距離札幌約 60 分鐘，是最適合一日遊的北海道滑雪場。本篇攻略涵蓋 Highland 與 Olympia 兩區雪道分析、纜車票價、交通方式與裝備租借，由 PURESKI 教練團隊撰寫。"
 date: "2026-03-23"
 category: "雪場攻略"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22b58d2687.jpg"
+ogImage: "/images/blog/83a842290a.jpg"
 ---
 
 如果你問我「住在札幌市區，想找一個當天來回就能玩的滑雪場」，我的答案一定是手稻滑雪場（Sapporo Teine）。從札幌市中心出發，不管是開車還是搭 JR 轉接駁巴士，大約 60 分鐘就能到達。對於時間有限或不想拉車太久的旅客來說，手稻是最方便、也是我們教練團隊最常推薦的札幌近郊雪場。
@@ -22,7 +22,7 @@ Highland 與 Olympia：兩個區域，兩種體驗
 
 ## Highland 區：中高級滑雪者的遊樂場
 
-![手稻滑雪場 Highland 區雪道遠景，適合中高級滑雪者的進階雪道](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22b849617d.jpg)
+![手稻滑雪場 Highland 區雪道遠景，適合中高級滑雪者的進階雪道](/images/blog/d429e370a8.jpg)
 
 Highland 位於山的上半部，海拔較高，雪質更細更乾。這裡的雪道以紅線（中級）和黑線（高級）為主，地形變化豐富，坡度也比較陡。
 
@@ -36,7 +36,7 @@ Highland 區的纜車數量較少，但人潮也相對分散，不太需要排�
 
 ## Olympia 區：初學者和家庭的首選
 
-![手稻滑雪場 Olympia 區初學者練習區域，寬闊平緩的綠線雪道適合新手](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23641d06ba.jpg)
+![手稻滑雪場 Olympia 區初學者練習區域，寬闊平緩的綠線雪道適合新手](/images/blog/a28c9dd65c.jpg)
 
 Olympia 位於山的下半部，雪道寬闊、坡度平緩，是初學者練習的理想場地。這裡也是手稻的主要設施集中區，餐廳、租借中心、停車場都在 Olympia 這一側。
 
@@ -64,7 +64,7 @@ Olympia 位於山的下半部，雪道寬闊、坡度平緩，是初學者練習
 
 夜滑是手稻的一大特色，Olympia 區的部分雪道在夜間會開放燈光照明（16:00-19:45，僅 Olympia 區），Highland 和 Olympia 白天營業時間皆為 9:00-16:00。在燈光下滑雪的感覺和白天完全不同，背景是整個札幌市區的萬家燈火，非常浪漫。我們很多學員上完白天的課程後，晚上還會留下來體驗夜滑。
 
-![手稻滑雪場夜滑燈光雪道，背景是札幌市區萬家燈火](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c22bc53712d.jpg)
+![手稻滑雪場夜滑燈光雪道，背景是札幌市區萬家燈火](/images/blog/0861f1d8dc.jpg)
 
 交通方式：怎麼從札幌到手稻？
 

@@ -3,7 +3,7 @@ title: "Carving 刻滑入門指南"
 description: "想從「推雪轉彎」進入「刻滑」的世界？本篇由 PURESKI 教練撰寫的 Carving 入門理論指南，帶你理解 Skidded Turn 與 Carved Turn 的差異、邊角基本概念、身體姿勢原則，以及適合初次練習 Carving 的雪道推薦。"
 date: "2026-03-22"
 category: "滑雪技術"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2456b0d060.jpg"
+ogImage: "/images/blog/9616fa8c4b.jpg"
 ---
 
 ## 本文定位：Carving 入門理論篇
@@ -36,7 +36,7 @@ Carving（刻滑）的運作原理則有根本性的不同。刻滑時，雪板�
 
 ## 二、Carving 入門的核心概念
 
-![Carving 刻滑在雪面上留下的弧線軌跡，清晰的鋼邊刻痕](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2456e6cd6d.jpg)
+![Carving 刻滑在雪面上留下的弧線軌跡，清晰的鋼邊刻痕](/images/blog/c3ec564d53.jpg)
 
 以下三個概念是 Carving 入門階段需要理解的基礎理論。每個概念在實際操作中都有許多細節需要透過練習和教練指導來掌握，這裡先建立基本的認知框架。
 
@@ -62,7 +62,7 @@ Carving 最核心的要素是讓鋼邊以足夠的角度切入雪面。一個常
 
 ## 三、入門級的身體姿勢與重心控制
 
-![Carving 刻滑時的身體傾斜姿勢，展示正確的邊角控制](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c24571c3297.jpg)
+![Carving 刻滑時的身體傾斜姿勢，展示正確的邊角控制](/images/blog/ebf9ec4125.jpg)
 
 ### 基礎姿勢原則
 
@@ -139,7 +139,7 @@ Carving 最核心的要素是讓鋼邊以足夠的角度切入雪面。一個常
 
 ## 六、適合練習 Carving 的雪道條件與場地推薦
 
-![壓雪車整理過的平整雪道，最適合練習 Carving 的雪面條件](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c245754229f.jpg)
+![壓雪車整理過的平整雪道，最適合練習 Carving 的雪面條件](/images/blog/c541726ede.jpg)
 
 ### 理想的雪面與坡度條件
 

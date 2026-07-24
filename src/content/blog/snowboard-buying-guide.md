@@ -3,7 +3,7 @@ title: "Snowboard 單板雪板怎麼選？2026 新手購買攻略"
 description: "想買第一塊 Snowboard 卻被各種規格搞得頭昏眼花？本篇從板型分類、長度寬度選擇、硬度彈性比較、到 2026 年各價位品牌推薦，由 PURESKI 教練團隊為新手整理的完整購板指南。"
 date: "2026-03-22"
 category: "裝備指南"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c244bdede74.jpg"
+ogImage: "/images/blog/9596592ec1.jpg"
 ---
 
 你已經租了好幾次雪板，每次到雪場都在碰運氣，不知道拿到的板子狀況如何。某天你心想：「是不是該買一塊自己的 Snowboard 了？」但打開購物網站，各種板型、Camber、Rocker、硬度數字和品牌，看得一頭霧水。別擔心，這篇文章就是為你準備的。
@@ -30,7 +30,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 雪板板型分類完全解析
 
-![各種 Snowboard 雪板排列展示，不同板型和長度的選擇](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c244c18706d.jpg)
+![各種 Snowboard 雪板排列展示，不同板型和長度的選擇](/images/blog/cbd47ad684.jpg)
 
 板型的彎曲結構（Profile）決定了一塊 Snowboard 的基本性格。了解這四種主要板型，是選板的第一步。
 
@@ -120,7 +120,7 @@ Snowboard 的長度會直接影響你的操控感受。太長的板子難以靈�
 
 ## 固定器（Binding）搭配指南
 
-![Snowboard 固定器角度調整，找到最舒適的站姿設定](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c244c4e5873.jpg)
+![Snowboard 固定器角度調整，找到最舒適的站姿設定](/images/blog/8065374fc3.jpg)
 
 雪板買好了，別忘了固定器。固定器是連接你和雪板的橋樑，選錯了或調錯了，再好的板子也發揮不出來。
 

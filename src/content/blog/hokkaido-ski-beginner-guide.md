@@ -3,7 +3,7 @@ title: "2026 北海道滑雪新手攻略"
 description: "第一次去北海道滑雪不知道怎麼準備？這篇 2026 完整攻略幫你整理裝備清單、雪場推薦、預算規劃、課程選擇，讓你安心出發！由 PURESKI 北海道專業滑雪教練團隊撰寫。"
 date: "2026-03-22"
 category: "入門系列"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c237cae6225.jpg"
+ogImage: "/images/blog/41e5078896.jpg"
 ---
 
 你是不是也在 IG 上看到朋友在北海道雪場帥氣轉彎的照片，心裡想著「好想去，但完全不知道怎麼開始」？別擔心，這篇文章就是為你寫的。
@@ -24,7 +24,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ### 豐富的周邊旅遊資源
 
-![札幌市區冬季雪景，北海道滑雪旅行的起點城市](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23871ae59c.jpg)
+![札幌市區冬季雪景，北海道滑雪旅行的起點城市](/images/blog/a1d826f047.jpg)
 
 滑雪之外，北海道本身就是超熱門的旅遊目的地。札幌的湯咖哩和味噌拉麵、小樽的運河夜景、登別的溫泉——就算你不是每天都想滑雪，行程也完全不會無聊。很多人會安排「滑兩天、玩兩天」的行程，滑雪跟觀光兼顧。
 
@@ -69,7 +69,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 滑雪裝備穿搭完全指南
 
-![滑雪裝備穿戴準備，雪衣雪褲雪鏡手套等必備裝備](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c238015ad1c.jpg)
+![滑雪裝備穿戴準備，雪衣雪褲雪鏡手套等必備裝備](/images/blog/0b16d12aa0.jpg)
 
 裝備是新手最容易搞混的部分——要帶什麼、租什麼、買什麼？這邊一次講清楚。
 
@@ -123,7 +123,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 最適合新手的北海道雪場 Top 5
 
-![北海道雪場纜車搭乘，初學者第一次搭乘雪場纜車的體驗](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23841d1236.jpg)
+![北海道雪場纜車搭乘，初學者第一次搭乘雪場纜車的體驗](/images/blog/2a37666fcb.jpg)
 
 北海道的雪場選擇很多，以下五個特別推薦給第一次滑雪的人。
 

@@ -3,7 +3,7 @@ title: "CSIA/CASI 滑雪教練證照全攻略 2026"
 description: "想成為滑雪教練卻不知道從何準備？本篇完整解析加拿大 CSIA（雙板）與 CASI（單板）教練證照的考試內容、費用、準備方式，以及 PURESKI 教練團隊的第一手考試經驗分享，幫你規劃最有效的考照之路。"
 date: "2026-03-22"
 category: "教練培訓"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2462190e23.jpg"
+ogImage: "/images/blog/71ea0ded2f.jpg"
 ---
 
 你是不是每次踏上雪場，看著教練們帶領學員在雪道上自在穿梭，心裡就會冒出一個念頭：「如果我也能成為滑雪教練，那該有多好？」把熱愛的事物變成職業，是很多滑雪人的夢想。但從「很會滑」到「能教別人滑」，中間還需要一張被國際認可的滑雪教練證照。
@@ -185,7 +185,7 @@ Early Bird 優惠有截止日期，通常在考試前數週截止，建議提早
 
 ## 考前準備指南
 
-![滑雪教練在雪道上進行教學示範，展示標準的滑行技術](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c24625333aa.jpg)
+![滑雪教練在雪道上進行教學示範，展示標準的滑行技術](/images/blog/0b63efbcfe.jpg)
 
 ### 體能準備與需要的滑行水平
 
@@ -234,7 +234,7 @@ CSIA 和 CASI 都有官方的教學手冊，考試前務必熟讀。理論考試
 
 ## PURESKI 教練的考照心得分享
 
-![PURESKI 教練團隊在北海道雪場合照，專業的華語滑雪教學團隊](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2462a042fe.jpg)
+![PURESKI 教練團隊在北海道雪場合照，專業的華語滑雪教學團隊](/images/blog/da6eeac8f1.jpg)
 
 ### 最常掛科的項目是什麼？
 

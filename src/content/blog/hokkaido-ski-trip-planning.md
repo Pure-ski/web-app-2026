@@ -3,7 +3,7 @@ title: "北海道滑雪自由行 2026"
 description: "規劃北海道滑雪自由行不知道從何下手？這篇完整指南從機票比價、機場交通、雪場住宿到每日行程範例，手把手教你安排一趟完美的滑雪假期。附 5 天、7 天行程範本，新手也能輕鬆上手！"
 date: "2026-03-22"
 category: "入門系列"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23ce8dddab.jpg"
+ogImage: "/images/blog/f762d3482c.jpg"
 ---
 
 每年冬天，我都會收到大量私訊問同一個問題：「教練，我想去北海道滑雪，但自由行到底要怎麼安排？」說實話，第一次規劃北海道滑雪自由行，光是搞清楚機票、交通、住宿就足以讓人頭暈。
@@ -41,7 +41,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 機票攻略
 
-![北海道新千歲機場冬季外觀，滑雪自由行的第一站](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23d785bfc3.jpg)
+![北海道新千歲機場冬季外觀，滑雪自由行的第一站](/images/blog/3104ef9a8b.jpg)
 
 搞定時間，接下來就是買機票。這一段幫你把航班選擇和注意事項整理清楚。
 
@@ -81,7 +81,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 機場到雪場交通全攻略
 
-![JR列車行駛在北海道雪原上，車窗外的冬季風景](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23d7c8f9b6.jpg)
+![JR列車行駛在北海道雪原上，車窗外的冬季風景](/images/blog/2a35e52961.jpg)
 
 到了新千歲機場之後，怎麼去雪場？這是自由行旅客最常卡關的地方。北海道滑雪交通的選擇其實很多，各有優缺點。
 
@@ -140,7 +140,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 住宿策略：住札幌還是住雪場？
 
-![札幌市區飯店房間，北海道滑雪自由行住宿選擇](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23d8004ca0.jpg)
+![札幌市區飯店房間，北海道滑雪自由行住宿選擇](/images/blog/c1fc058a78.jpg)
 
 這大概是每個規劃北海道滑雪行程的人都會猶豫的問題。兩種方式我都試過，各有各的好。
 

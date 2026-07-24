@@ -3,7 +3,7 @@ title: "二世谷滑雪全攻略 2026"
 description: "二世谷是北海道最知名的滑雪勝地，擁有四大互通雪場。本篇深度解析 Grand Hirafu、Hanazono、Village、Annupuri 的雪道特色、交通方式、住宿推薦與餐廳美食，幫你規劃最完美的二世谷滑雪假期。"
 date: "2026-03-22"
 category: "雪場攻略"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c233f3859ac.jpg"
+ogImage: "/images/blog/4c715a64d0.jpg"
 ---
 
 說到北海道滑雪，「二世谷」三個字幾乎已經跟「粉雪天堂」畫上等號。每年冬天，來自世界各地的滑雪愛好者湧入這座小鎮，就是為了體驗那種踩進齊腰深粉雪的夢幻感覺。不管你是第一次計畫去二世谷，還是想更深入了解四大雪場的差異，這篇攻略都會幫你一次搞定所有疑問。
@@ -16,7 +16,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 來自西伯利亞的冷氣團經過日本海時吸收大量水氣，在二世谷的山脈上凝結成極度乾燥、輕盈的粉雪。含水量低於 5% 的「乾粉雪」，滑起來像在雲上飄浮一樣。這種雪質在全世界的雪場中都是頂級的，也是為什麼二世谷能吸引這麼多國際滑雪客。
 
-![二世谷 Niseko 羊蹄山雪景全景，北海道代表性山岳與粉雪雪道](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23420ae965-1024x683.jpg)
+![二世谷 Niseko 羊蹄山雪景全景，北海道代表性山岳與粉雪雪道](/images/blog/7b7d40c641.jpg)
 
 ### 四大雪場互通的獨特優勢
 
@@ -87,7 +87,7 @@ Annupuri 位於二世谷的最西側，是四大雪場中最安靜的。很多�
 
 
 
-![二世谷 Niseko 深雪粉雪滑雪，世界頂級乾粉雪體驗](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c234457b0db-1024x683.jpg)
+![二世谷 Niseko 深雪粉雪滑雪，世界頂級乾粉雪體驗](/images/blog/1d1a3f38b1.jpg)
 
 ### 進階者的野雪與樹林區
 
@@ -125,7 +125,7 @@ Hirafu 山頂的 Gate 4 和 Gate 5 是最熱門的野雪入口，能滑到長達
 
 小提醒：末班車通常在傍晚 5 點左右，如果你滑到打烊才下山，記得確認回程巴士時刻。
 
-![二世谷 Hirafu 比羅夫市街冬季街景，國際化滑雪小鎮](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2346d24e4c-1024x683.jpg)
+![二世谷 Hirafu 比羅夫市街冬季街景，國際化滑雪小鎮](/images/blog/6894643ec4.jpg)
 
 ## 住宿推薦：依預算與需求分類
 
@@ -162,7 +162,7 @@ Hirafu 的餐飲選擇多到讓人選擇困難。以下幾間是在地人和常�
 
 要注意的是，Hirafu 的餐廳價格普遍比札幌或其他北海道地區貴 30-50%。如果想省預算，Village 旁的便利商店和超市可以解決簡單的餐食。
 
-![二世谷露天溫泉風呂，雪景中泡溫泉的療癒體驗](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c23492f0030-1024x768.jpg)
+![二世谷露天溫泉風呂，雪景中泡溫泉的療癒體驗](/images/blog/b6c76afabe.jpg)
 
 ### 在地居酒屋與溫泉推薦
 

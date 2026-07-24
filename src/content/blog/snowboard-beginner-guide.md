@@ -3,7 +3,7 @@ title: "Snowboard 單板滑雪新手教學"
 description: "想學 Snowboard 單板滑雪卻不知道從何開始？PURESKI 教練融合 AASI、CASI、APSI、NZSIA、AADIDESS 五大國際教學體系精華，從零教起：站姿判斷、裝備穿戴、基礎滑行、煞車控速、到完成你的第一個連續轉彎。"
 date: "2026-03-22"
 category: "滑雪技術"
-ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2441f9766c.jpg"
+ogImage: "/images/blog/da8c549664.jpg"
 ---
 
 站在雪道頂端，雙腳固定在同一塊板上，眼前是一片白茫茫的斜坡——如果你正準備踏入 Snowboard 單板滑雪的世界，這篇文章就是為你寫的。單板滑雪教學的資訊網路上很多，但真正從零開始、一步一步帶你走過每個階段的完整指南並不多見。
@@ -67,7 +67,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 第一步：平地基礎練習
 
-![單板滑雪新手穿裝備站立，學習基本平衡姿勢](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c24423236e6.jpg)
+![單板滑雪新手穿裝備站立，學習基本平衡姿勢](/images/blog/84bc096ac2.jpg)
 
 在上斜坡之前，先在平地建立與雪板的信任感。這個階段看似簡單，卻是國際各大教學系統——無論是 AASI、CASI、APSI 還是 NZSIA——都強調不可跳過的基礎環節。
 
@@ -97,7 +97,7 @@ ogImage: "https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/20
 
 ## 第二步：側滑與落葉飄——速度控制的基礎
 
-![單板滑雪側滑煞車練習，用邊刃控制速度](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2442687046.jpg)
+![單板滑雪側滑煞車練習，用邊刃控制速度](/images/blog/98918084d3.jpg)
 
 這個階段是單板滑雪入門的核心，你將學會如何用邊刃控制速度和方向。各國教學系統在這裡的教法略有差異，但核心原理是一致的：透過調整「邊刃角度」來控制與雪面的摩擦力，進而控制速度。
 
@@ -143,7 +143,7 @@ Garland 的做法是：從橫向移動（Traverse）開始，把板頭微微朝�
 
 ## 第三步：從 C-Turn 到連續轉彎（Linked Turns）
 
-![單板滑雪連續轉彎，從初學者到自主滑行的里程碑](https://d2otiughgt5pr2.cloudfront.net/wp-content/uploads/sites/6064/2026/03/69c2442a1b08c.jpg)
+![單板滑雪連續轉彎，從初學者到自主滑行的里程碑](/images/blog/6c7c0b1e1e.jpg)
 
 當你能熟練地做出側滑、落葉飄和 Garland 之後，就可以開始挑戰轉彎了。完成連續轉彎是單板滑雪教學中的重要里程碑，代表你已經從「初學者」晉升為「可以自主滑行」的程度。
 
