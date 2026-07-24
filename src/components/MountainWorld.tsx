@@ -43,8 +43,6 @@ export default function MountainWorld() {
   // 雲
 
   // 設計文件層（= kitamura 的縫紉版型圖：雪板藍圖、等高線圖、雪結晶作圖）
-  const bpY = useTransform(scrollYProgress, [0, 1], ["30vh", "-60vh"]);
-  const bpR = useTransform(scrollYProgress, [0, 1], [7, 12]);
   const ct2Y = useTransform(scrollYProgress, [0, 1], ["240vh", "60vh"]);
 
   return (
@@ -97,12 +95,9 @@ export default function MountainWorld() {
         <div className="h-full w-full rounded-full bg-[radial-gradient(circle,#fdf7dc_0%,#f6e5a2_38%,rgba(246,229,162,0.35)_62%,rgba(246,229,162,0.12)_78%,transparent_100%)] shadow-[0_0_80px_30px_rgba(246,229,162,0.25)]" />
       </motion.div>
 
-      {/* 工藝素材層（= kitamura 的布紋版型紙）：壓凸和紙雪板、絎縫毛料雪鏡、壓凸交叉雙板
+      {/* 工藝素材層（= kitamura 的布紋版型紙）：絎縫毛料雪鏡、壓凸交叉雙板
           手機隱藏（原本只為桌面設計的角落裝飾，窄螢幕上相對比例太大會很突兀），
           電腦版 lg:w-60 等數值完全不動 */}
-      <motion.div style={{ y: bpY, rotate: bpR }} className="absolute right-[2vw] top-0 hidden w-48 opacity-90 mix-blend-multiply md:block lg:w-60">
-        <Image src="/world/pelem-boarder.png" alt=""  width={1024} height={1024} sizes="16vw" className="w-full" />
-      </motion.div>
       <motion.div style={{ y: ct2Y }} className="absolute right-[4vw] top-0 hidden w-44 rotate-[9deg] opacity-90 mix-blend-multiply md:block lg:w-56">
         <Image src="/world/pelem-flake.png" alt=""  width={1024} height={1024} sizes="15vw" className="w-full" />
       </motion.div>
