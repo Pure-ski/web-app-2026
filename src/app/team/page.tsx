@@ -11,7 +11,7 @@ import { coachesSchema } from "@/lib/schema";
 export const metadata: Metadata = {
   title: "教練團隊",
   description:
-    "認識 PURESKI 18 位專業教練！台灣人教練常駐北海道，ISIA/CASI 國際認證，中文溝通無障礙。Ski 雙板＆Snowboard 單板，找到最適合你的教練。",
+    `認識 PURESKI ${coaches.length} 位專業教練！台灣人教練常駐北海道，ISIA/CASI 國際認證，中文溝通無障礙。Ski 雙板＆Snowboard 單板，找到最適合你的教練。`,
   alternates: { canonical: "/team" },
 };
 

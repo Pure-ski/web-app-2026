@@ -63,7 +63,7 @@ export default function AboutPage() {
           <p className="mt-6 leading-9 tracking-wide text-ink-soft">
             PURE SKI 有多位單、雙板的專業教練，每一位都持有日本<Hl>正式工作簽證</Hl>
             及滑雪國際認證執照，以北海道為主要服務範圍——手稻、札幌國際、留壽都、星野
-            TOMAMU、Kiroro 等多座雪場。
+            TOMAMU 等多座雪場。
           </p>
           <p className="mt-6 leading-9 tracking-wide text-ink-soft">
             無論您是第一次踏上雪板的新手，還是想突破瓶頸的滑雪愛好者，我們都希望
