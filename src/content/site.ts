@@ -4,6 +4,8 @@
  * 預約平台切換：Razio 連結產生後，把 BOOKING_URL 換掉即可全站生效。
  */
 
+import { resortDetails } from "@/content/resorts";
+
 export const BOOKING_URL = "https://pureski.rezio.shop/zh-TW"; // rezio 預約平台
 export const LINE_URL = "https://lin.ee/VDs0ioR";
 
@@ -12,8 +14,9 @@ export const site = {
   nameEn: "PURE SKI",
   slogan: "滑帥不滑快",
   tagline: "不比別人快，但陪你真的學會",
-  description:
-    "北海道中文滑雪學校。ISIA 國際認證教練團隊，Ski 雙板與 Snowboard 單板全階段教學，服務手稻、留壽都、星野 TOMAMU、札幌國際等北海道 7 大雪場。",
+  description: `北海道中文滑雪學校。ISIA 國際認證教練團隊，Ski 雙板與 Snowboard 單板全階段教學，服務${resortDetails
+    .map((r) => r.name.replace("滑雪場", "").replace("渡假村", "").trim())
+    .join("、")}等北海道 ${resortDetails.length} 大雪場。`,
   url: "https://www.pureski-school.com",
   company: {
     legalName: "PURE SKI 株式会社",
