@@ -84,8 +84,21 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="border-t border-cream/10 py-5 text-center text-xs text-cream/40">
-        © {new Date().getFullYear()} {site.company.legalName}｜会社法人等番号 {site.company.corporateNumber}
+      <div className="border-t border-cream/10 px-5 py-5 text-center text-xs text-cream/40">
+        <p>
+          © {new Date().getFullYear()} {site.company.legalName}｜会社法人等番号 {site.company.corporateNumber}
+        </p>
+        <p className="mt-2 flex flex-wrap items-center justify-center gap-x-4 gap-y-1">
+          <Link href="/terms" className="hover:text-pink">
+            課程條款與規則
+          </Link>
+          <span aria-hidden className="text-cream/20">
+            ｜
+          </span>
+          <Link href="/privacy" className="hover:text-pink">
+            隱私政策
+          </Link>
+        </p>
       </div>
     </footer>
   );
