@@ -374,8 +374,21 @@ export function FinalCta() {
           </div>
         </div>
       </div>
-      <div className="relative z-40 border-t border-cream/15 py-4 text-center text-xs text-cream/50">
-        © {new Date().getFullYear()} {site.company.legalName}｜会社法人等番号 {site.company.corporateNumber}
+      <div className="relative z-40 border-t border-cream/15 px-5 py-4 text-center text-xs text-cream/50">
+        <p>
+          © {new Date().getFullYear()} {site.company.legalName}｜会社法人等番号 {site.company.corporateNumber}
+        </p>
+        <p className="mt-2 flex flex-wrap items-center justify-center gap-x-4 gap-y-1">
+          <Link href="/terms" className="hover:text-pink">
+            課程條款與規則
+          </Link>
+          <span aria-hidden className="text-cream/25">
+            ｜
+          </span>
+          <Link href="/privacy" className="hover:text-pink">
+            隱私政策
+          </Link>
+        </p>
       </div>
     </section>
   );
