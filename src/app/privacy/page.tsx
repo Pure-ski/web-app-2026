@@ -80,7 +80,7 @@ export default function PrivacyPage() {
           <Section title="四、第三方服務">
             <p>
               本公司使用下列第三方平台提供服務，該等平台依其各自的隱私政策處理資料：Meta（Facebook /
-              Instagram）、LINE、Stripe（線上付款）、雲端伺服器服務商。
+              Instagram）、LINE、Stripe（線上付款）、Razio（課程預訂系統）、雲端伺服器服務商。
             </p>
           </Section>
 
