@@ -6,7 +6,7 @@ category: "裝備指南"
 ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 ---
 
-![PURESKI 吉祥物拖著雪板袋準備出發](/images/blog/snow-gear-luggage-mascot-hero.png)
+<img class="deco-img" style="max-width:480px" src="/images/blog/snow-gear-luggage-mascot-hero.png" alt="PURESKI 吉祥物拖著雪板袋準備出發">
 
 滑雪最不想遇到的麻煩，是**出發前掛行李的那一關**。
 
@@ -18,12 +18,12 @@ ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 
 ## 先講結論：我們最推薦怎麼做
 
-懶人包在這裡，時間不夠的話看這段就好：
+<mark class="hl">懶人包在這裡，時間不夠的話看這段就好</mark>：
 
-- **機票還沒訂、想圖個安心** → 優先選 **ANA、中華航空、星宇航空**。這三家的雪具免費尺寸放寬到 292cm（一般行李通常只有 203cm），額度內完全不收費，是目前對雪板/雙板玩家最划算、最不用煩惱的組合。
+- **機票還沒訂、想圖個安心** → 優先選 <mark class="hl">**ANA、中華航空、星宇航空**</mark>。這三家的雪具免費尺寸放寬到 292cm（一般行李通常只有 203cm），額度內完全不收費，是目前對雪板/雙板玩家最划算、最不用煩惱的組合。
 - **已經訂好票，剛好是 JAL、國泰或長榮** → 不用改票，但務必自己先把雪具的長寬高量出來，對照文章裡的表格抓預算，尤其長榮 2026/9/29 新制上路後超標費用不低。
 - **搭的是廉價航空（虎航／樂桃／酷航）** → 心態上直接假設「雪具一定要另外付費」，出發前先在官網把行李額度買好，別賭到機場現場才加購。
-- **完全不想扛雪具上下飛機** → 這是我們最推薦的懶人解法：跟 PURESKI 合作的 **Snowbuddy 雪具倉儲服務**，雪具直接放在日本，滑完寄回倉庫，下次來之前再寄到飯店，連行李規則都不用管了。細節在文章最後。
+- **完全不想扛雪具上下飛機** → 這是我們最推薦的懶人解法：跟 PURESKI 合作的 <mark class="hl">**Snowbuddy 雪具倉儲服務**</mark>，雪具直接放在日本，滑完寄回倉庫，下次來之前再寄到飯店，連行李規則都不用管了。細節在文章最後。
 
 以下是完整的規則解析，想知道細節、想確認自己那趟航班怎麼算的，繼續往下看。
 
@@ -31,7 +31,7 @@ ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 
 ## 先搞懂一件事：什麼是「三邊總和」？
 
-幾乎所有航空公司所謂的行李尺寸，用的都不是「雪板袋多長」，而是**「長 + 寬 + 高」三邊加起來的總和**（單位：公分）。
+幾乎所有航空公司所謂的行李尺寸，用的都不是「雪板袋多長」，而是<mark class="hl">**「長 + 寬 + 高」三邊加起來的總和**</mark>（單位：公分）。
 
 這是很多人踩雷的地方——你以為雪板袋只有 170cm 長，量起來應該沒問題，但雪板袋通常有一定的厚度和寬度，三邊加起來很容易衝到 180～200cm 以上，遠比你想像中還大。
 
@@ -55,7 +55,7 @@ ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 | **中華航空** | 292cm（三邊總和，短程線） | 23kg／件（經濟艙／短程） | $0（額度內） | **訂位時記得先講一聲**，額度內直接收 |
 | **星宇航空** | 292cm（三邊總和） | 23kg／件（豪華經濟／經濟艙） | $0（額度內） | **出發前一天記得先通知**航空公司 |
 
-> 這三家的邏輯是：雪板袋只要在 292cm 三邊總和、23kg 重量內，就當一般托運行李處理，不會多收你一毛錢。差別只在「要不要先講」——中華航空建議訂位時講、星宇建議出發前一天講，ANA 則完全不需要特別通知（但我們仍會建議，可以的話想辦法跟客服知會一聲）。
+> 這三家的邏輯是：<mark class="hl">雪板袋只要在 292cm 三邊總和、23kg 重量內，就當一般托運行李處理</mark>，不會多收你一毛錢。差別只在「要不要先講」——中華航空建議訂位時講、星宇建議出發前一天講，ANA 則完全不需要特別通知（但我們仍會建議，可以的話想辦法跟客服知會一聲）。
 
 ### 🟡 不太一定組——203cm，彈性但不保證
 
@@ -66,7 +66,7 @@ ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 | **日本航空 JAL** | 203cm（三邊總和） | 23kg／件 × 2 件（經濟艙國際線） | $0～（視計件費而定） | 可以申請多帶一件雪具，但**能不能放寬要看當下狀況**，沒有保證 |
 | **國泰航空** | 203cm（單件上限） | 23kg／件（經濟艙標準） | 依艙等，無雪具加碼 | 雪具**完全當一般託運件計算**，沒有任何特殊待遇，超額費用要另外查官網計算 |
 
-> 這組的重點是：雪具沒有被當成「特殊物品」看待，就是照一般行李的 203cm／23kg 規則走。只要你的雪板袋沒有超過這個標準，一樣是免費的；但如果超過，因為沒有雪具專屬的放寬額度，超額費用會照一般超重/超size規則計算，划算度不如安心搭乘組。如果搭乘這兩家航空的話，也建議提前向出發地區的客服詢問最準！
+> 這組的重點是：雪具沒有被當成「特殊物品」看待，就是照一般行李的 203cm／23kg 規則走。只要你的雪板袋沒有超過這個標準，一樣是免費的；但如果超過，因為沒有雪具專屬的放寬額度，<mark class="hl">超額費用會照一般超重/超size規則計算</mark>，划算度不如安心搭乘組。如果搭乘這兩家航空的話，也建議提前向出發地區的客服詢問最準！
 
 ### 🟣 可能噴錢組——203cm，2026/9/29 起新制
 
@@ -78,7 +78,71 @@ ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 
 > 白話翻譯：長榮把雪具當「運動器材」認列，本身重量額度（23kg×2件）不錯，但**尺寸只要一超過 203cm 就會被收很重的超額費**（3 件超額行李費，等於好幾千塊台幣起跳），而市面上大多數雪板袋動輒 180～220cm 以上，很容易就超標。搭長榮帶雪具，出發前務必自己先量好三邊總和，抓好心理準備。
 
-![一般航空雪具行李規則一覽](/images/blog/snow-gear-luggage-fullservice-card.jpg)
+<p style="font-weight:700;color:var(--ink);margin-bottom:0.6em;">一張圖秒懂：一般航空雪具行李規則</p>
+<div class="airline-tiers">
+  <div class="airline-tier">
+    <div class="airline-tier__head">
+      <span class="airline-tier__pill airline-tier__pill--mint">安心搭乘組</span>
+      <span class="airline-tier__desc">292cm 內免費，照規矩來就過</span>
+    </div>
+    <div class="airline-tier__rows">
+      <div class="airline-row">
+        <div class="airline-row__logo"><img src="/images/airlines/ana.png" alt="ANA"></div>
+        <div class="airline-row__stat"><span class="n">292cm</span><span class="label">免費上限</span></div>
+        <div class="airline-row__stat"><span class="n">$0</span><span class="label">雪板袋託運</span></div>
+        <div class="airline-row__note">照一般行李規則收，不用特別通知</div>
+      </div>
+      <div class="airline-row">
+        <div class="airline-row__logo"><img src="/images/airlines/china-airlines.png" alt="中華航空"></div>
+        <div class="airline-row__stat"><span class="n">292cm</span><span class="label">免費上限</span></div>
+        <div class="airline-row__stat"><span class="n">$0</span><span class="label">雪板袋託運</span></div>
+        <div class="airline-row__note">額度內不用錢，但訂位時要先講一聲</div>
+      </div>
+      <div class="airline-row">
+        <div class="airline-row__logo"><img src="/images/airlines/starlux.png" alt="星宇航空"></div>
+        <div class="airline-row__stat"><span class="n">292cm</span><span class="label">免費上限</span></div>
+        <div class="airline-row__stat"><span class="n">$0</span><span class="label">雪板袋託運</span></div>
+        <div class="airline-row__note">不額外收費，但最遲出發前一天記得先通知</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="airline-tier">
+    <div class="airline-tier__head">
+      <span class="airline-tier__pill airline-tier__pill--yellow">不太一定組</span>
+      <span class="airline-tier__desc">203cm，彈性但不保證</span>
+    </div>
+    <div class="airline-tier__rows">
+      <div class="airline-row">
+        <div class="airline-row__logo"><img src="/images/airlines/jal.png" alt="日本航空 JAL"></div>
+        <div class="airline-row__stat"><span class="n">203cm</span><span class="label">免費上限</span></div>
+        <div class="airline-row__stat"><span class="n">$0~</span><span class="label">視計件費</span></div>
+        <div class="airline-row__note">可申請多帶一件雪具，但能否放寬要看當下</div>
+      </div>
+      <div class="airline-row">
+        <div class="airline-row__logo"><img src="/images/airlines/cathay.png" alt="國泰航空"></div>
+        <div class="airline-row__stat"><span class="n">203cm</span><span class="label">免費上限</span></div>
+        <div class="airline-row__stat"><span class="n">依艙等</span><span class="label">無雪具加碼</span></div>
+        <div class="airline-row__note">雪具當一般託運件算，超額費用要查官網計算</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="airline-tier">
+    <div class="airline-tier__head">
+      <span class="airline-tier__pill airline-tier__pill--pink">可能噴錢組</span>
+      <span class="airline-tier__desc">203cm，2026/9/29 起新制</span>
+    </div>
+    <div class="airline-tier__rows">
+      <div class="airline-row airline-row--warn">
+        <div class="airline-row__logo"><img src="/images/airlines/eva-air.png" alt="長榮航空"></div>
+        <div class="airline-row__stat"><span class="n">203cm</span><span class="label">免費上限</span></div>
+        <div class="airline-row__stat"><span class="n">US$420–480</span><span class="label">超額行李費</span></div>
+        <div class="airline-row__note">超過 203～292cm 一口氣收 3 件超額行李費</div>
+      </div>
+    </div>
+  </div>
+</div>
 
 * * *
 
@@ -92,7 +156,7 @@ ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 |---|---|---|---|---|
 | **台灣虎航** | 203cm 內（三邊總和）＋單邊不超過 100cm，超過即視為「大型行李」 | 單件托運行李上限 30kg；運動器材（含雪具）最高可到 **45kg** | 大型行李手續費 **$550／件**（尺寸超標另計）；超重費用**每公斤加收約 $500**（依現場公告） | 本身**沒有免費托運額度**，行李額度需另外預購；雪板/雪具明列在可托運運動器材清單中，但重量會併入托運行李總重計算 |
 
-> 虎航的算法很直接：大型行李費是固定的（$550），超重費用是按公斤計算的，兩者互不影響、疊加收費。因為費用結構固定、不會有「臨場看心情」的問題，只要出發前先算好自己雪具的尺寸和重量，就能精準抓出這趟要多花多少錢。也就是可以提前預期要付多少錢，且訂票時就預先購買會最便宜喔！
+> 虎航的算法很直接：大型行李費是固定的（$550），超重費用是按公斤計算的，兩者互不影響、疊加收費。因為費用結構固定、不會有「臨場看心情」的問題，只要出發前先算好自己雪具的尺寸和重量，就能精準抓出這趟要多花多少錢。也就是<mark class="hl">可以提前預期要付多少錢，且訂票時就預先購買會最便宜喔</mark>！
 
 ### 🟣 臨場加價組——照一般行李算，沒有雪具優待
 
@@ -103,7 +167,44 @@ ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 
 > 這組最大的雷是「沒有雪具的特殊待遇」——樂桃自 2024 年底起明確把雪板納入一般行李規則，酷航則本來就沒有雪具例外。加上酷航的免費尺寸上限只有 158cm（比其他家的 203cm 還嚴格），一般雪板袋幾乎必超標。搭這兩家的建議是：**出發前務必在官網先把行李額度買好買滿**，千萬不要賭到機場現場再加購，價差通常不小。
 
-![廉價航空雪具行李規則一覽](/images/blog/snow-gear-luggage-lcc-card.jpg)
+<p style="font-weight:700;color:var(--ink);margin-bottom:0.6em;">一張圖秒懂：廉價航空雪具行李規則</p>
+<div class="airline-tiers">
+  <div class="airline-tier">
+    <div class="airline-tier__head">
+      <span class="airline-tier__pill airline-tier__pill--yellow">算好給錢組</span>
+      <span class="airline-tier__desc">固定手續費</span>
+    </div>
+    <div class="airline-tier__rows">
+      <div class="airline-row">
+        <div class="airline-row__logo"><img src="/images/airlines/tigerair-tw.png" alt="台灣虎航"></div>
+        <div class="airline-row__stat"><span class="n">203cm</span><span class="label">免費上限</span></div>
+        <div class="airline-row__stat"><span class="n">$550+</span><span class="label">大型行李手續費</span></div>
+        <div class="airline-row__note">超過203cm，訂票時加付$550大行李費；超重行李額度，每公斤加收$500</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="airline-tier">
+    <div class="airline-tier__head">
+      <span class="airline-tier__pill airline-tier__pill--pink">臨場加價組</span>
+      <span class="airline-tier__desc">照一般行李算，沒有雪具優待</span>
+    </div>
+    <div class="airline-tier__rows">
+      <div class="airline-row airline-row--warn">
+        <div class="airline-row__logo"><img src="/images/airlines/peach.png" alt="樂桃航空 Peach"></div>
+        <div class="airline-row__stat"><span class="n">203cm</span><span class="label">免費上限</span></div>
+        <div class="airline-row__stat"><span class="n">¥1,900+</span><span class="label">超尺寸選項</span></div>
+        <div class="airline-row__note">雪板視為一般行李，超重或超尺寸需加錢</div>
+      </div>
+      <div class="airline-row airline-row--warn">
+        <div class="airline-row__logo"><img src="/images/airlines/scoot.png" alt="酷航 Scoot"></div>
+        <div class="airline-row__stat"><span class="n">158cm</span><span class="label">免費上限</span></div>
+        <div class="airline-row__stat"><span class="n">浮動</span><span class="label">加購額度計價</span></div>
+        <div class="airline-row__note">沒有固定雪具費率，額度買不夠現場補更貴</div>
+      </div>
+    </div>
+  </div>
+</div>
 
 * * *
 
@@ -131,7 +232,7 @@ ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 
 如果你不想每趟往返都拖著沉重的雪板袋跑機場、算行李費，PURESKI 也和日本在地的雪具倉儲服務 **Snowbuddy** 合作——入會後，雪具可以直接寄放在日本，滑完雪寄回倉庫，下次來之前再請他們寄到你入住的飯店，滑完再寄回去就好，完全不用自己扛著雪具搭機。倉儲服務還能加購讓日本職人幫你的雪板/雙板保養、打蠟、除鏽，回台前雪具永遠維持在最佳狀態。
 
-2026年5月起，凡報名 PURESKI 課程的學員，加入 Snowbuddy 倉儲即可享 **NT$500 折扣金**，有興趣的話歡迎至 [snowbuddy.tw](https://snowbuddy.tw/) 了解，或私訊我們了解更多。
+<mark class="hl">2026年5月起，凡報名 PURESKI 課程的學員，加入 Snowbuddy 倉儲即可享 **NT$500 折扣金**</mark>，有興趣的話歡迎至 [snowbuddy.tw](https://snowbuddy.tw/) 了解，或私訊我們了解更多。
 
 ![Snowbuddy 雪具倉儲服務使用流程：入會 Snowbuddy、滑雪完雪具寄回倉庫、下次滑雪前寄到你的飯店、滑雪完再次寄回倉庫](/images/blog/snow-gear-luggage-snowbuddy-flow.png)
 
@@ -160,4 +261,4 @@ ogImage: "/images/blog/snow-gear-luggage-fullservice-card.jpg"
 
 祝大家都能輕輕鬆鬆把雪具帶到日本，滑好滑滿一整季 🎿
 
-![PURESKI 吉祥物](/images/blog/snow-gear-luggage-mascot-bubblegum.png)
+<img class="deco-img" style="max-width:340px" src="/images/blog/snow-gear-luggage-mascot-bubblegum.png" alt="PURESKI 吉祥物">

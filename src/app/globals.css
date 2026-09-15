@@ -222,6 +222,128 @@ body {
   color: var(--ink);
 }
 
+/* 專欄插畫：吉祥物等裝飾圖，不套用一般內文圖片的邊框樣式 */
+.prose-pure img.deco-img {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  background: none;
+  display: block;
+  margin: 2.2em auto;
+}
+
+/* 螢光筆劃重點 */
+.prose-pure mark.hl {
+  background: linear-gradient(
+    to bottom,
+    transparent 58%,
+    rgba(245, 229, 78, 0.68) 58%,
+    rgba(245, 229, 78, 0.68) 92%,
+    transparent 92%
+  );
+  padding: 0 0.05em;
+  color: var(--ink);
+  font-weight: 700;
+}
+
+/* ===== 航空行李分組小卡（網頁原生版，取代 IG 圖卡） ===== */
+.airline-tiers {
+  margin: 1.8em 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1em;
+}
+.airline-tier {
+  border-radius: 14px;
+  background: var(--card);
+  border: 1px solid rgba(44, 62, 80, 0.1);
+  padding: 1.2em 1.3em 1.4em;
+  box-shadow: 0 6px 18px rgba(44, 62, 80, 0.06);
+}
+.airline-tier__head {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.7em;
+  margin-bottom: 0.9em;
+}
+.airline-tier__pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3em 0.9em;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.88rem;
+  color: var(--ink);
+  white-space: nowrap;
+}
+.airline-tier__pill--mint {
+  background: var(--mint);
+}
+.airline-tier__pill--yellow {
+  background: var(--yellow);
+}
+.airline-tier__pill--pink {
+  background: var(--pink);
+  color: #fff9fc;
+}
+.airline-tier__desc {
+  font-weight: 700;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+}
+.airline-tier__rows {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
+}
+.airline-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.9em 1.4em;
+  padding: 0.8em 1em;
+  border-radius: 10px;
+  background: rgba(44, 62, 80, 0.03);
+}
+.airline-row--warn {
+  background: rgba(216, 117, 218, 0.08);
+}
+.airline-row__logo {
+  width: 108px;
+  min-width: 108px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+}
+.airline-row__logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.airline-row__stat {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.25;
+  min-width: 72px;
+}
+.airline-row__stat .n {
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: var(--ink);
+}
+.airline-row__stat .label {
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  opacity: 0.85;
+}
+.airline-row__note {
+  flex: 1;
+  min-width: 160px;
+  font-size: 0.86rem;
+  color: var(--ink);
+}
+
 /* 夜色自適應文字：--n 0=墨色 1=奶油色（由滾動進度驅動） */
 .night-adaptive {
   color: color-mix(in srgb, var(--cream) calc(var(--n, 0) * 100%), var(--ink));
