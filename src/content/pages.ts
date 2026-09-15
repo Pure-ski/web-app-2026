@@ -79,15 +79,13 @@ export const coaches = [
     certs: "SBINZ單板 / NZSIA雙板",
     bio: "擅長觀察每位學員的個人習慣，給予最適合的調整建議。喜歡看到學員從緊張到自信、從卡關到突破的那個瞬間。",
     photo: "/images/coaches/jessie.jpg",
-    pos: "center 18%",
   },
   {
-    name: "RICKY",
+    name: "Ricky",
     role: "",
     certs: "APSI單板",
     bio: "喜歡把複雜的技巧拆解成簡單好懂的步驟，讓每位學員都能循序漸進、安心進步。",
     photo: "/images/coaches/ricky.jpg",
-    pos: "center 48%",
   },
   {
     name: "Wilson",
@@ -95,7 +93,6 @@ export const coaches = [
     certs: "CSIA雙板",
     bio: "讓第一次的滑雪，成為愛上滑雪的開始。",
     photo: "/images/coaches/wilson.jpg",
-    pos: "center 28%",
   },
   {
     name: "小k",
@@ -127,7 +124,7 @@ export const faqCategories = [
       },
       {
         q: "可以用什麼方式付款？",
-        a: "在預約課程填寫完資料後送出，經由客服人員確認後會寄出通知信。屆時再返回至訂單列表選取付訂金或是付全款，點選後會自動引導至金流平台付款。我們支持信用卡線上付款（Visa、Mastercard、JCB）以及 Stripe 線上付款連結。若是點選先付訂金，當天可再以日幣現金結清。",
+        a: "在預約課程的網站填寫完資料後送出，經由客服人員確認後會寄出通知信。我們支持信用卡線上付款（Visa、Mastercard、JCB）。若是有指定教練之費用，當天可再以日幣現金結清。",
       },
       {
         q: "可以指定教練嗎？",
