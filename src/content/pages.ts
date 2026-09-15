@@ -68,7 +68,7 @@ export const coaches = [
   {
     name: "EZ",
     role: "",
-    certs: "CSIA雙板 / CASI單板",
+    certs: "APSI雙板 / APSI單板",
     bio: "Hi 我是EZ。我喜歡挑戰，所以我喜歡滑雪。我希望所有學員都可以感受到滑雪的樂趣。",
     photo: "/images/coaches/ez.jpg",
     pos: "center 44%",
