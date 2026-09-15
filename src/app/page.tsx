@@ -7,6 +7,7 @@ import { localBusinessSchema } from "@/lib/schema";
 import {
   Manifesto,
   Products,
+  SpecialCourses,
   Testimonials,
   FinalCta,
 } from "@/components/home/Sections";
@@ -27,6 +28,7 @@ export default function Home() {
       <div className="relative">
         <Manifesto />
         <Products />
+        <SpecialCourses />
         <Testimonials />
         <FinalCta />
       </div>

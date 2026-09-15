@@ -5,7 +5,7 @@ import PhotoStrip from "@/components/home/PhotoStrip";
 import VoiceHeader from "@/components/home/VoiceHeader";
 import Link from "next/link";
 import { site, BOOKING_URL, LINE_URL } from "@/content/site";
-import { products, testimonials } from "@/content/home";
+import { products, specialCourses, testimonials } from "@/content/home";
 
 /** 縱書側標（日式編輯語言，貫穿各區塊） */
 function SideLabel({ jp, en }: { jp: string; en: string }) {
@@ -58,7 +58,7 @@ export function Manifesto() {
                   <strong className="font-bold text-ink">完全合法合規</strong>
                   ，我們才對得起每一位來到這裡的學員。
                   <strong className="font-bold text-ink">持有正式工作簽證</strong>
-                  與國際滑雪證照的單雙板教練，四座主要大雪場，中文、英文、日文教學無障礙，4
+                  與國際滑雪證照的單雙板教練，五座主要大雪場，中文、英文、日文教學無障礙，4
                   歲到 70 歲都能找到適合的課程。
                   <br />
                   <br />
@@ -193,6 +193,78 @@ export function Products() {
             ，我們幫你排。
           </p>
         </Reveal>
+      </div>
+    </section>
+  );
+}
+
+/* ---------- 手稻限定特別班：固定套裝課程 ---------- */
+
+export function SpecialCourses() {
+  return (
+    <section className="relative py-8 md:py-14">
+      <div className="mx-auto max-w-6xl px-5">
+        <div className="grid gap-10 md:grid-cols-[64px_1fr]">
+          <Reveal className="hidden md:block">
+            <SideLabel jp="限定" en="LIMITED" />
+          </Reveal>
+
+          <ScrollFx y={[100, 0]} opacity={[0, 1]}>
+            <p className="font-display text-xs font-bold tracking-[0.4em] text-pink">
+              HANDPICKED AT TEINE
+            </p>
+            <h2 className="serif-line mt-5 text-3xl font-semibold tracking-wide md:text-4xl">
+              手稻限定・特別班
+            </h2>
+            <p className="mt-4 max-w-xl text-sm leading-7 text-ink-soft">
+              以下兩班課程皆限定於手稻滑雪場開課，名額有限，建議提早預約。
+            </p>
+          </ScrollFx>
+        </div>
+
+        <div className="mt-12 grid gap-6 md:grid-cols-2 md:pl-[64px]">
+          {specialCourses.map((c) => (
+            <Reveal key={c.slug} className="h-full">
+              <div className="flex h-full flex-col rounded-[4px] border border-ink/25 bg-card p-8 shadow-[0_3px_18px_rgba(44,62,80,0.1)]">
+                <span
+                  className={`inline-block w-fit rounded-full px-4 py-1.5 text-xs font-bold tracking-wide ${
+                    c.slug === "freestyle-camp"
+                      ? "bg-brand-yellow/80 text-ink"
+                      : "bg-pink/15 text-pink-deep"
+                  }`}
+                >
+                  {c.badge}
+                </span>
+                <h3 className="serif-line mt-4 text-xl font-semibold">{c.title}</h3>
+                <p className="mt-1 text-sm font-bold text-ink-soft">{c.schedule}</p>
+                <ul className="mt-5 space-y-2.5">
+                  {c.points.map((point) => (
+                    <li key={point} className="flex gap-2 text-sm leading-6 text-ink">
+                      <span className="mt-0.5 shrink-0 font-bold text-pink-deep">✓</span>
+                      {point}
+                    </li>
+                  ))}
+                </ul>
+                <div className="mt-auto flex items-baseline justify-between gap-3 border-t border-dashed border-ink/20 pt-5">
+                  <div>
+                    <span className="font-display text-2xl font-extrabold text-ink">
+                      {c.price}
+                    </span>
+                    <span className="ml-1 text-xs font-bold text-ink-soft">{c.priceNote}</span>
+                  </div>
+                </div>
+                <a
+                  href={BOOKING_URL}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-5 inline-block rounded-full bg-pink px-6 py-2.5 text-center text-sm font-bold tracking-wide text-white shadow-[0_8px_28px_rgba(216,117,218,0.5)] transition-all hover:-translate-y-1 hover:bg-pink-deep"
+                >
+                  立即預約 →
+                </a>
+              </div>
+            </Reveal>
+          ))}
+        </div>
       </div>
     </section>
   );

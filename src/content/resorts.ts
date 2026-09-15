@@ -1,4 +1,4 @@
-/** 四大雪場介紹頁內容 — 沿用現行官網各雪場頁文案（不含商品列表）。 */
+/** 五大雪場介紹頁內容 — 沿用現行官網各雪場頁文案（不含商品列表）。 */
 
 export type ResortDetail = {
   slug: string;
@@ -174,6 +174,35 @@ export const resortDetails: ResortDetail[] = [
     address: "〒048-1711 Hokkaido, Abuta District, Rusutsu, Izumikawa, 13番地",
     parking: "北館門口即是停車場，The Vale 共享相同停車場",
     priceFull: "¥80,000",
+    priceHalf: null,
+  },
+  {
+    slug: "onze",
+    name: "ONZE滑雪場",
+    nameEn: "ONZE SKI RESORT",
+    tagline: "小樽近郊・面海雪場",
+    image: "/images/resorts/onze.jpg",
+    features: [
+      { title: "無敵海景", body: "雪道正對日本海，邊滑雪邊看絕景。" },
+      { title: "新手友善", body: "路線集中、規模不大，新手容易上手。" },
+      { title: "交通方便", body: "小樽近郊，從札幌市區出發也相當方便。" },
+    ],
+    intro: [
+      "位於小樽朝里的面海雪場，規模不大但視野絕佳，雪道正對日本海，是當地人才知道的私房雪場。",
+      "路線集中、坡度平緩，非常適合新手練習，遊客較少不用人擠人，也是練平花的好地方。",
+      "目前僅提供全日課程：每人 ¥75,000 起，多 1 人加收 ¥5,000，最多 6 人一起上課，人數越多平均越划算。",
+    ],
+    services: ["裝備租借", "停車場", "無線網路"],
+    rental: ["教練會協助大家一起進行裝備租借"],
+    transport: [
+      {
+        title: "🚗 自駕前往",
+        lines: ["小樽、札幌市區出發皆在可接受車程內（冬季注意雪胎／4WD）", "現場設有停車場"],
+      },
+    ],
+    address: "北海道小樽市朝里（詳細集合地點將於預約後提供）",
+    parking: "雪場現場設有停車場",
+    priceFull: "全日 ¥75,000",
     priceHalf: null,
   },
 ];

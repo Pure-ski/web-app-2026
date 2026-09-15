@@ -4,19 +4,19 @@ import Link from "next/link";
 import PageHero from "@/components/PageHero";
 import Footer from "@/components/Footer";
 import { Reveal } from "@/components/motion";
-import { products } from "@/content/home";
+import { products, specialCourses } from "@/content/home";
 import { resortDetails } from "@/content/resorts";
 import { BOOKING_URL, LINE_URL } from "@/content/site";
 
 export const metadata: Metadata = {
   title: "北海道滑雪場總覽｜中文課程預約",
   description:
-    "PURESKI 提供北海道滑雪場的中文教學課程：手稻、札幌國際、星野 TOMAMU、留壽都。選擇最適合你的雪場，開始你的滑雪冒險！",
+    "PURESKI 提供北海道滑雪場的中文教學課程：手稻、札幌國際、星野 TOMAMU、留壽都、ONZE。選擇最適合你的雪場，開始你的滑雪冒險！",
   alternates: { canonical: "/ski-resort" },
 };
 
 /* 本頁課程卡改用雪場實景照（首頁書籤卡維持原照片） */
-const cardSlugs = ["teine", "sapporo-kokusai", "tomamu", "rusutsu"] as const;
+const cardSlugs = ["teine", "sapporo-kokusai", "tomamu", "rusutsu", "onze"] as const;
 
 export default function SkiResortPage() {
   return (
@@ -93,6 +93,57 @@ export default function SkiResortPage() {
               </div>
             </Reveal>
           ))}
+        </div>
+
+        {/* 手稻限定特別班 */}
+        <div className="mt-16">
+          <p className="font-display text-xs font-bold tracking-[0.4em] text-pink">
+            HANDPICKED AT TEINE
+          </p>
+          <h2 className="serif-line mt-3 text-2xl font-semibold tracking-wide">
+            手稻限定・特別班
+          </h2>
+          <div className="mt-8 grid gap-6 md:grid-cols-2">
+            {specialCourses.map((c) => (
+              <Reveal key={c.slug} className="h-full">
+                <div className="flex h-full flex-col rounded-[4px] border border-ink/25 bg-card p-8 shadow-[0_3px_18px_rgba(44,62,80,0.1)]">
+                  <span
+                    className={`inline-block w-fit rounded-full px-4 py-1.5 text-xs font-bold tracking-wide ${
+                      c.slug === "freestyle-camp"
+                        ? "bg-brand-yellow/80 text-ink"
+                        : "bg-pink/15 text-pink-deep"
+                    }`}
+                  >
+                    {c.badge}
+                  </span>
+                  <h3 className="serif-line mt-4 text-xl font-semibold">{c.title}</h3>
+                  <p className="mt-1 text-sm font-bold text-ink-soft">{c.schedule}</p>
+                  <ul className="mt-5 space-y-2.5">
+                    {c.points.map((point) => (
+                      <li key={point} className="flex gap-2 text-sm leading-6 text-ink">
+                        <span className="mt-0.5 shrink-0 font-bold text-pink-deep">✓</span>
+                        {point}
+                      </li>
+                    ))}
+                  </ul>
+                  <div className="mt-auto flex items-baseline gap-1.5 border-t border-dashed border-ink/20 pt-5">
+                    <span className="font-display text-2xl font-extrabold text-ink">
+                      {c.price}
+                    </span>
+                    <span className="text-xs font-bold text-ink-soft">{c.priceNote}</span>
+                  </div>
+                  <a
+                    href={BOOKING_URL}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mt-5 inline-block rounded-full bg-pink px-6 py-2.5 text-center text-sm font-bold tracking-wide text-white shadow-[0_8px_28px_rgba(216,117,218,0.5)] transition-all hover:-translate-y-1 hover:bg-pink-deep"
+                  >
+                    立即預約 →
+                  </a>
+                </div>
+              </Reveal>
+            ))}
+          </div>
         </div>
       </div>
 

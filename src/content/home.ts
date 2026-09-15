@@ -38,8 +38,8 @@ export const resorts = [
     name: "ONZE",
     nameEn: "Onze",
     blurb:
-      "小樽朝里的面海雪場，邊滑雪邊看日本海絕景。當地人的小雪場，非常適合初學與平花。",
-    tag: "面海雪道",
+      "小樽朝里的面海雪場，邊滑雪邊看日本海絕景。規模不大、遊客少，新手友善、交通也方便。",
+    tag: "無敵海景",
   },
   {
     slug: "sahoro",
@@ -129,7 +129,7 @@ export const testimonials = [
   },
 ] as const;
 
-/** 4 大主力雪場課程（價格對齊 landing page，Razio 上線前按鈕先連 WooCommerce） */
+/** 5 大主力雪場課程（價格對齊 landing page，Razio 上線前按鈕先連 WooCommerce） */
 export const products = [
   {
     label: "全日、半日課程",
@@ -166,6 +166,45 @@ export const products = [
     priceHalf: null,
     body: "北海道規模最大的單一滑雪度假村，擁有三座山頭與頂級乾粉雪，連續多年獲得世界滑雪大獎肯定。",
     image: "/images/lookout-blue.jpg",
+  },
+  {
+    label: "全日課程",
+    title: "ONZE滑雪場",
+    stamp: "海",
+    priceFull: "全日 ¥75,000",
+    priceHalf: null,
+    body: "小樽朝里的面海雪場，邊滑雪邊眺望無敵日本海景。規模不大、遊客少，路線集中新手友善，交通也相當方便。多加1人課程費+¥5,000，最多6人一起上課。",
+    image: "/images/resorts/onze.jpg",
+  },
+] as const;
+
+/** 手稻限定特別班：固定時段／固定名額的套裝課程，非揪團折扣制 */
+export const specialCourses = [
+  {
+    slug: "group-lesson",
+    badge: "每週開課・新手友善",
+    title: "團體課程",
+    schedule: "每週二、四、六開課・手稻滑雪場限定",
+    points: [
+      "專為初學者設計，不必擔心跟不上",
+      "享受安全、無壓力、不被放生的體驗",
+      "預算考量、找不到新手夥伴的人，放心來學習",
+    ],
+    price: "¥25,000",
+    priceNote: "／人・手稻滑雪場限定",
+  },
+  {
+    slug: "freestyle-camp",
+    badge: "限定名額・剩 4 天",
+    title: "平花專班",
+    schedule: "12/18、1/31、2/18、3/12・手稻滑雪場限定",
+    points: [
+      "熱門中的熱門！一步步穩穩練出帥招",
+      "程度要求：需能順暢綠線滑行、有體驗過紅線",
+      "私人課程、特殊包班也可學習平花，歡迎洽詢",
+    ],
+    price: "¥30,000",
+    priceNote: "／人・手稻滑雪場限定",
   },
 ] as const;
 
