@@ -77,7 +77,7 @@ export const coaches = [
     name: "Jessie",
     role: "",
     certs: "SBINZ單板 / NZSIA雙板",
-    bio: "擅長觀察每位學員的個人習慣，給予最適合的調整建議。喜歡看到學員從緊張到自信、從卡關到突破的那個瞬間。",
+    bio: "7年紐西蘭駐場教學經驗，經驗豐富，善於找出問題。滑雪可以很難，也可以很好玩！希望你能從我這裡帶走的不只是快樂，還有真正實用的滑雪技術！",
     photo: "/images/coaches/jessie.jpg",
   },
   {
